@@ -4,4 +4,4 @@ Then refactored the project to new design using Tablayout and 3 screens in a Vie
 
 Old version | Latest version
 :-: | :-:
-https://github.com/AhmedTawfek/AlRahma/assets/95584517/e7d91b6a-9e9c-4053-a68b-c4003beface5 | https://github.com/AhmedTawfek/AlRahma/assets/95584517/dc5db039-c3af-42cf-bb22-caf6f4b58fcc
+<video src='https://github.com/AhmedTawfek/AlRahma/assets/95584517/e7d91b6a-9e9c-4053-a68b-c4003beface5' width=180/> | <video src='https://github.com/AhmedTawfek/AlRahma/assets/95584517/dc5db039-c3af-42cf-bb22-caf6f4b58fcc' width=180/>
